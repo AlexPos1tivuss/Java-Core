@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Arrays/Java_Arrays.iml" filepath="$PROJECT_DIR$/Java_Arrays/Java_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_FlowControl/Java_FlowControl.iml" filepath="$PROJECT_DIR$/Java_FlowControl/Java_FlowControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Introduction/Java_Introduction.iml" filepath="$PROJECT_DIR$/Java_Introduction/Java_Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Methods/Java_Methods.iml" filepath="$PROJECT_DIR$/Java_Methods/Java_Methods.iml" />
+    </modules>
+  </component>
+</project>
